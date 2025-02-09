@@ -2,7 +2,7 @@
 
 A minimalist portfolio showcasing my work, skills, and projects.  
 
-🔗 **Live Demo:** [tanishabiswal.vercel.app](https://tanishabiswal.vercel.app/)  
+🔗 **Live Demo:** [https://tanishabiswalport.vercel.app/](https://tanishabiswal.vercel.app/)  
 
 ## 🚀 Features  
 - 💼 Projects showcase  
